@@ -1,0 +1,252 @@
+.main-container {
+  margin-left: 240px;
+  margin-right: 240px;
+  margin-bottom: 128px;
+  margin-top: 178px;
+}
+.firstpart {
+  text-align: center;
+}
+.firstpara {
+  margin-top: 24px;
+  font-size: 18px;
+  font-weight: 400;
+  color: rgba(39, 39, 39, 0.6);
+}
+.back-border {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+}
+.back-colorone {
+  background: rgba(71, 125, 17, 0.15);
+}
+.back-colortwo {
+  background: rgba(167, 33, 98, 0.15);
+}
+
+.back-colorthree {
+  background: rgba(5, 151, 160, 0.15);
+}
+.second-content {
+  margin-top: 48px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.image-cap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px 160px 0 140px;
+  text-decoration: underline;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  color: #272727;
+}
+.main-img-cap {
+  margin-right: 70px;
+}
+.three-img {
+  margin-right: 30px;
+}
+/* .main-img-cap {
+  padding-left: 307px;
+} */
+.back-border {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.second-img {
+  margin-bottom: -110px;
+}
+.img-widone {
+  width: 314px;
+  height: 428px;
+}
+.img-widtwo {
+  width: 370px;
+  height: 370px;
+}
+.img-widthree {
+  width: 310px;
+  height: 428px;
+}
+.thirdpart {
+  width: 1440px;
+  height: 320px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  margin-top: 128px;
+  margin-bottom: 128px;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* gap: 300px; */
+}
+.icon-img {
+  margin-top: 86px;
+  margin-bottom: 24px;
+}
+.cap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon-img-two {
+  margin-right: 271px;
+  margin-left: 356px;
+}
+.icon-cap-two {
+  margin-top: 24px;
+  position: absolute;
+  padding-left: 40px;
+  font-size: 24px;
+  font-weight: 600;
+  color: rgba(39, 39, 39, 0.8);
+}
+.icon-cap-one {
+  position: absolute;
+  padding-right: 750px;
+  margin-top: 24px;
+  font-size: 24px;
+  font-weight: 600;
+  color: rgba(39, 39, 39, 0.8);
+}
+.icon-cap-three {
+  margin-top: 24px;
+  padding-left: 800px;
+  position: absolute;
+  font-size: 24px;
+  font-weight: 600;
+  color: rgba(39, 39, 39, 0.8);
+}
+/* main section half finish */
+/* sales part start */
+/* .sales-part {
+  width: 1920px;
+  height: 620px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+} */
+.sales-heading {
+  font-size: 40px;
+  font-weight: 800;
+  color: #272727;
+}
+.sales-img {
+  width: 318px;
+  height: 420px;
+}
+.sales-part {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+.sales-para {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  width: 594px;
+  margin-top: 24px;
+}
+.sales-btn {
+  margin-top: 32px;
+  padding: 20px 43px;
+  border-radius: 8px;
+  background: #e55473;
+  border: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+.sales-container {
+  width: 1903px;
+  height: 600px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  padding-top: 220px;
+}
+.list-product {
+  height: 1150px;
+  padding: 128px 240px;
+}
+.list-image {
+  width: 342px;
+  height: 396px;
+}
+.list-img-container {
+  display: flex;
+  margin-bottom: 128px;
+  gap: 24px;
+}
+.list-deals {
+  width: 1440px;
+  height: 449px;
+  background-image: url("/image/Rectangle\ 9.png");
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.list-des {
+  margin-bottom: 48px;
+  text-align: center;
+}
+.list-para {
+  font-size: 18px;
+  font-weight: 400;
+  color: rgba(39, 39, 39, 0.6);
+  width: 594px;
+  margin: auto;
+  margin-top: 24px;
+}
+input {
+  width: 700px;
+  height: 64px;
+  border-radius: 8px;
+  border-radius: 8px;
+  background: #fff;
+  margin-top: 48px;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  padding-left: 22px;
+  border: none;
+}
+footer {
+  background: #111010;
+  height: 449px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer-content {
+  text-align: center;
+}
+.footer-para {
+  width: 625px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  color: rgba(255, 255, 255, 0.9);
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+.footer-small {
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.4);
+}
+.footer-heading {
+  color: white;
+  font-size: 48px;
+  font-weight: 800;
+}
