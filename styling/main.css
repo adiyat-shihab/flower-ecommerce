@@ -255,3 +255,22 @@ footer {
   font-size: 48px;
   font-weight: 800;
 }
+@media screen and (max-width: 576px) {
+  .firstpart {
+    width: 100vw;
+    text-align: center;
+    border: 2px solid black;
+  }
+  .head-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 576px;
+  }
+  .intro {
+    border: 1px solid tomato;
+  }
+  .thirdpart {
+    width: auto;
+  }
+}
